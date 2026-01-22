@@ -6,5 +6,6 @@ authors = ["nazelto <z15822621293@163.com>"]
 description = "Reproduce the Haskell syntax sugar"
 keywords = ["macro","macros","utilities"]
 categories = ["rust-patterns", "development-tools"]
-
+license = "MIT"
+repository = "https://github.com/Nazelto/hgm"
 [dependencies]
