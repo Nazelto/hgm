@@ -2,5 +2,8 @@
 name = "hgm"
 version = "0.1.0"
 edition = "2024"
-
+authors = ["nazelto <z15822621293@163.com>"]
+description = "Reproduce the Haskell syntax sugar"
+keywords = ["macro","macros","utilities"]
+categories = ["rust-patterns", "development-tools"]
 [dependencies]
